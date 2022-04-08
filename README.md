@@ -6,4 +6,5 @@ In this project I used Firebase Realtime-Database to store the database cloudly 
 ---
 # License & copyright
 
-Copyright (c)  Mohammed Bineid
+© Mohammed Bineid, Webs & Apps Developer
+Licensed under the [MIT License](LICENSE)
